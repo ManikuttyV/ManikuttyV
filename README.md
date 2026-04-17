@@ -80,6 +80,7 @@ Seeking opportunities to contribute to data-driven decision-making and grow in a
 ## 🔹 Education
 
 🎓 MSc Statistics – University of Calicut (CGPA: 8.52)
+
 🎓 BSc Statistics – Kannur University (CGPA: 8.96 | University 2nd Rank)
 
 ---
